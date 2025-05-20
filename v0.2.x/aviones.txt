@@ -1,0 +1,91 @@
+Aermacchi M-346,2,2950,21.0,Militar,Reactivo,8200,Delta,Servicio
+Airbus A310,280,9000,85.0,Comercial,Turbofan,9000,Fija,Descontinuado
+Airbus A320,150,6100,98.5,Comercial,Turbofan,5500,Fija,Servicio
+Airbus A350,300,15000,317.0,Comercial,Turbofan,10000,Fija,Servicio
+Alenia C-27J Spartan,68,5900,30.0,Militar,Helice,8700,Fija,Servicio
+Antonov An-124,88,4800,70.0,Militar,Turbofan,22000,Fija,Servicio
+Antonov An-225 Mriya,6,15400,285.0,Militar,Turbofan,30000,Fija,Descontinuado
+ATR 72,74,1500,26.0,Comercial,Helice,2100,Fija,Servicio
+BAC One-Eleven,89,3400,32.0,Comercial,Turbofan,3900,Fija,Descontinuado
+Beechcraft King Air 350i,11,3300,7.8,Privado,Helice,2800,Fija,Servicio
+Beechcraft Starship,6,2500,5.5,Privado,Helice,2500,Tandem,Descontinuado
+Beriev Be-200,64,3100,42.0,Militar,Turbofan,7200,Fija,Servicio
+Blohm & Voss BV 141,3,1200,12.0,Militar,Helice,1500,Asimetrica,Descontinuado
+Boeing 707,189,9200,69.0,Comercial,Turbofan,7800,Fija,Descontinuado
+Boeing 727,189,4000,70.0,Comercial,Turbofan,7300,Fija,Descontinuado
+Boeing 737,180,5600,110.2,Comercial,Turbofan,5800,Fija,Servicio
+Boeing 747,410,13800,350.0,Comercial,Turbofan,12000,Fija,Servicio
+Boeing 787,242,14100,292.5,Comercial,Turbofan,9800,Fija,Servicio
+Boeing B-52 Stratofortress,5,14100,84.0,Militar,Turbofan,20000,Fija,Servicio
+Boeing X-45,0,1200,11.5,Militar,Reactivo,10000,Fija,Descontinuado
+Boeing X-47B,0,3900,15.4,Militar,Reactivo,12000,Fija,Servicio
+Bombardier CRJ700,78,2200,41.0,Comercial,Turbofan,4200,Fija,Servicio
+Bombardier Global 7500,19,14260,75.0,Privado,Reactivo,7800,Fija,Servicio
+Canadair CL-415,6,2500,20.0,Militar,Helice,4800,Fija,Servicio
+Cessna 152,2,768,0.5,Privado,Helice,400,Tandem,Servicio
+Cessna 172 Skyhawk,4,1280,1.0,Privado,Helice,600,Fija,Servicio
+Cessna 208 Caravan,9,1200,2.5,Privado,Helice,1400,Fija,Servicio
+Cessna Citation X,12,6100,23.5,Privado,Reactivo,7200,Fija,Servicio
+Chengdu J-10,1,2940,41.0,Militar,Reactivo,14000,Delta,Servicio
+Chengdu J-20,1,5500,110.0,Militar,Reactivo,20000,Delta,Servicio
+Cirrus Vision Jet,5,1950,2.8,Privado,Reactivo,1600,Fija,Servicio
+Concorde,100,7250,200.0,Comercial,Reactivo,25000,Delta,Descontinuado
+Convair B-36 Peacemaker,15,16000,172.0,Militar,Helice,29000,Fija,Descontinuado
+Convair CV-580,50,3000,30.0,Comercial,Helice,3100,Fija,Descontinuado
+Dassault Falcon 2000LXS,10,7400,34.0,Privado,Reactivo,6000,Fija,Servicio
+Dassault Falcon 8X,14,11945,58.0,Privado,Reactivo,6900,Fija,Servicio
+De Havilland Dash 8,78,2000,27.5,Comercial,Helice,2300,Fija,Servicio
+Douglas DC-3,32,2400,10.0,Comercial,Helice,1800,Fija,Descontinuado
+Douglas DC-8,189,8500,73.0,Comercial,Turbofan,7700,Fija,Descontinuado
+Douglas SBD Dauntless,2,1800,6.5,Militar,Helice,1100,Fija,Descontinuado
+Embraer E190,100,4500,54.3,Comercial,Turbofan,4900,Fija,Servicio
+Embraer E195,132,4300,58.0,Comercial,Turbofan,5100,Fija,Servicio
+Embraer EMB 314 Super Tucano,2,1330,9.8,Militar,Helice,4000,Fija,Servicio
+Embraer Phenom 300,9,3700,9.5,Privado,Reactivo,3500,Fija,Servicio
+Eurofighter Typhoon,1,3790,98.0,Militar,Reactivo,18000,Delta,Servicio
+F/A-18 Hornet,1,2346,29.0,Militar,Reactivo,17000,Variable,Servicio
+F-117 Nighthawk,1,1720,111.2,Militar,Reactivo,24000,Delta,Descontinuado
+F-15 Eagle,1,3900,29.0,Militar,Reactivo,17000,Delta,Servicio
+F-16 Fighting Falcon,1,4220,18.8,Militar,Reactivo,15000,Delta,Servicio
+F-22 Raptor,1,2963,150.0,Militar,Reactivo,23000,Delta,Servicio
+F-35 Lightning II,1,2200,89.2,Militar,Reactivo,21000,Delta,Servicio
+Fairchild Republic A-10 Thunderbolt II,1,2580,18.0,Militar,Turbofan,14500,Fija,Servicio
+Fokker 100,97,3000,39.0,Comercial,Turbofan,4100,Fija,Descontinuado
+Grumman F-14 Tomcat,2,3000,38.0,Militar,Reactivo,19000,Variable,Descontinuado
+Gulfstream G280,10,6667,24.5,Privado,Reactivo,5600,Fija,Servicio
+Gulfstream G650,18,12964,65.0,Privado,Reactivo,7500,Fija,Servicio
+Heinkel He 162,1,975,2.5,Militar,Reactivo,7500,Fija,Descontinuado
+HondaJet HA-420,6,2185,5.3,Privado,Reactivo,3000,Fija,Servicio
+Ilyushin Il-96,262,11000,95.0,Comercial,Turbofan,9100,Fija,Servicio
+KC-135 Stratotanker,4,24100,39.6,Militar,Turbofan,13000,Fija,Servicio
+Learjet 75 Liberty,9,3890,13.0,Privado,Reactivo,3600,Fija,Servicio
+Lockheed C-130 Hercules,92,3800,30.1,Militar,Helice,10000,Fija,Servicio
+Lockheed L-1011 TriStar,256,9700,89.5,Comercial,Turbofan,8500,Fija,Descontinuado
+Lockheed SR-71 Blackbird,2,5400,150.0,Militar,Reactivo,40000,Delta,Descontinuado
+Lockheed U-2,1,10300,40.0,Militar,Reactivo,16000,Fija,Servicio
+McDonnell Douglas DC-10,270,10400,92.0,Comercial,Turbofan,8700,Fija,Descontinuado
+McDonnell Douglas MD-80,172,4600,70.0,Comercial,Turbofan,7100,Fija,Descontinuado
+Mikoyan MiG-29,1,2100,22.0,Militar,Reactivo,15000,Delta,Servicio
+Mikoyan MiG-31,2,3000,33.0,Militar,Reactivo,16000,Delta,Servicio
+Mikoyan MiG-35,1,3100,45.0,Militar,Reactivo,15500,Delta,Servicio
+MQ-9 Reaper,0,1850,16.9,Militar,Helice,9500,Fija,Servicio
+North American P-51 Mustang,1,1800,4.0,Militar,Helice,8000,Fija,Descontinuado
+Northrop Grumman B-2,2,11100,737.0,Militar,Turbofan,60000,Delta,Servicio
+Northrop YF-23,1,4500,100.0,Militar,Reactivo,21000,Delta,Descontinuado
+Pilatus PC-24,11,3610,10.7,Privado,Reactivo,3400,Fija,Servicio
+Piper PA-28 Cherokee,4,1200,1.1,Privado,Helice,500,Fija,Servicio
+Rockwell B-1 Lancer,4,12000,120.0,Militar,Turbofan,27000,Variable,Servicio
+Rutan Long-EZ,2,2000,0.3,Privado,Helice,900,Tandem,Servicio
+Shenyang J-11,1,3530,30.0,Militar,Reactivo,13000,Delta,Servicio
+Shenyang J-15,1,3000,60.0,Militar,Reactivo,17000,Delta,Servicio
+Shenyang J-16,1,3900,70.0,Militar,Reactivo,18000,Delta,Servicio
+Sukhoi Su-27,1,3530,40.0,Militar,Reactivo,16000,Delta,Servicio
+Sukhoi Su-30,2,3000,50.0,Militar,Reactivo,16500,Delta,Servicio
+Sukhoi Su-34,2,4500,36.0,Militar,Reactivo,15500,Delta,Servicio
+Sukhoi Su-35,1,3600,85.0,Militar,Reactivo,17500,Delta,Servicio
+Sukhoi Su-57,1,3500,110.0,Militar,Reactivo,22000,Delta,Servicio
+Tupolev Tu-154,180,5280,70.0,Comercial,Turbofan,6000,Fija,Descontinuado
+Tupolev Tu-204,210,9300,80.0,Comercial,Turbofan,7400,Fija,Servicio
+Vultee BT-13 Valiant,2,1100,1.4,Militar,Helice,900,Fija,Descontinuado
+XB-70 Valkyrie,4,14000,750.0,Militar,Reactivo,50000,Delta,Descontinuado
+Yak-130,2,2100,15.0,Militar,Reactivo,7500,Delta,Servicio
