@@ -1,2 +1,2 @@
-# BuscadorAviones
-Programa en C que con una base de datos en txt busca segun parametros los aviones correspondientes.
+# Aircraft Finder
+C program that with a txt database searches according to parameters the corresponding airplanes.
